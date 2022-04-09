@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => DoneTourismProvider(),
       child: MaterialApp(
-        title: 'contacts',
+        title: 'INGFO TOURISM',
         theme: ThemeData(),
         home:  MainScreen(),
       ),
